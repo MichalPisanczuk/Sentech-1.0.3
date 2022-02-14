@@ -38,7 +38,7 @@ function Header() {
     <div className='header'>
       <div className='logo'>
         <Link to='/'>
-          <img src='http://sentech.pl/gfx/Sentech_logo-2.png' alt='Sentech' />
+          <img src={process.env.PUBLIC_URL + `/assets/images/logo.png`} alt='Sentech' />
         </Link>
       </div>
       <div className='dark-mode-button'>
