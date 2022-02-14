@@ -36,7 +36,7 @@ i18n
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Header />
       <ScrollToTop>
         <Switch>
