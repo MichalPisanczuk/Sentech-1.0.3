@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sentech-1.0.3/static/css/main.6717972d.css",
-    "main.js": "/Sentech-1.0.3/static/js/main.8ca33c3d.js",
+    "main.js": "/Sentech-1.0.3/static/js/main.e30cde94.js",
     "static/media/do.svg": "/Sentech-1.0.3/static/media/do.3ecb625b75ec64be4376.svg",
     "static/media/rs.svg": "/Sentech-1.0.3/static/media/rs.9f00a7d8eafa6f593713.svg",
     "static/media/bo.svg": "/Sentech-1.0.3/static/media/bo.88ba0b0a7e48ec71eca8.svg",
@@ -270,10 +270,10 @@
     "static/media/de.svg": "/Sentech-1.0.3/static/media/de.6435bf24d148ca7248e7.svg",
     "static/media/bd.svg": "/Sentech-1.0.3/static/media/bd.0ad8c443ef4d47ea0497.svg",
     "main.6717972d.css.map": "/Sentech-1.0.3/static/css/main.6717972d.css.map",
-    "main.8ca33c3d.js.map": "/Sentech-1.0.3/static/js/main.8ca33c3d.js.map"
+    "main.e30cde94.js.map": "/Sentech-1.0.3/static/js/main.e30cde94.js.map"
   },
   "entrypoints": [
     "static/css/main.6717972d.css",
-    "static/js/main.8ca33c3d.js"
+    "static/js/main.e30cde94.js"
   ]
 }
