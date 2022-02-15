@@ -5,22 +5,6 @@ import myDataBase from "../database.json";
 import myDataBaseAll from "../database.json";
 import "../components/Details.css";
 
-// fetch("url")
-// .then(repsonse => {
-
-// })
-// .catch(error => {
-
-// })
-
-const asyncFunction = async () => {
-  const jsonString = await fetch("url");
-
-  fetch("url")
-    .then((repsonse) => {})
-    .catch((error) => {});
-};
-
 let year = "";
 let power = "";
 let wires = "";
