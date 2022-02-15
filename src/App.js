@@ -49,7 +49,7 @@ function App() {
 
   return (
     <>
-      <img className={} src='http://sentech.pl/gfx/Sentech_logo-2.pndfrg' onError={console.log("error")} />
+      <img className={logo} src='http://sentech.pl/gfx/Sentech_logo-2.png' onError={console.log("error")} />
 
       <div className='container'>
         <div className='page-title'>
