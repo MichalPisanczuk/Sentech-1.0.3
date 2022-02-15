@@ -49,6 +49,8 @@ function App() {
 
   return (
     <>
+      <img src='http://sentech.pl/gfx/Sentech_logo-2.pndfrg' onError={console.log("error")} />
+
       <div className='container'>
         <div className='page-title'>
           <h2>{t("Catalogue")}</h2>

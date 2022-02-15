@@ -63,18 +63,18 @@ function Details() {
       <div className='content'>
         <div className='result-content'>
           <div className='photo-result-content'>
-            <Link to={`/photo/${id}`}>
-              {/* <img alt={id} className='photo-img' src={`/images/${path}1/${id}.jpg`} /> */}
-              <img alt={id} className='photo-img' src={`http://sentech.pl/pictures/${path}1/${id}.jpg`} />
-            </Link>
-            <Link to={`/photo/${id}`}>
-              {/* <img alt={id} className='photo-img' src={`/images/${path}2/${id}.jpg`} /> */}
-              <img alt={id} className='photo-img' src={`http://sentech.pl/pictures/${path}2/${id}.jpg`} />
-            </Link>
-            <Link to={`/photo/${id}`}>
-              {/* <img alt={id} className='photo-img' src={`/images/${path}3/${id}.jpg`} /> */}
-              <img alt={id} className='photo-img' src={`http://sentech.pl/pictures/${path}3/${id}.jpg`} />
-            </Link>
+            {/* <Link to={`/photo/${id}`}> */}
+            {/* <img alt={id} className='photo-img' src={`/images/${path}1/${id}.jpg`} /> */}
+            <img alt={id} className='photo-img' src={`http://sentech.pl/pictures/${path}1/${id}.jpg`} />
+            {/* </Link> */}
+            {/* <Link to={`/photo/${id}`}> */}
+            {/* <img alt={id} className='photo-img' src={`/images/${path}2/${id}.jpg`} /> */}
+            <img alt={id} className='photo-img' src={`http://sentech.pl/pictures/${path}2/${id}.jpg`} />
+            {/* </Link> */}
+            {/* <Link to={`/photo/${id}`}> */}
+            {/* <img alt={id} className='photo-img' src={`/images/${path}3/${id}.jpg`} /> */}
+            <img alt={id} className='photo-img' src={`http://sentech.pl/pictures/${path}3/${id}.jpg`} />
+            {/* </Link> */}
           </div>
           <div className='car-result-content'>
             <h3>{t("Your_car")}</h3>
